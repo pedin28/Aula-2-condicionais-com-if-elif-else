@@ -1,0 +1,7 @@
+N = float(input("Digite sua nota : "))
+if N >=7:
+    print("Aprovado")
+elif N >=5 <7:
+    print ("Recuperação")
+else:
+    print("Reprovado")
