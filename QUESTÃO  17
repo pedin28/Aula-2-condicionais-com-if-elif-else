@@ -1,0 +1,5 @@
+PV =float(input("Qual o valor da compra : "))
+if PV >= 100:
+ print("Ganhou desconto!!")
+else:
+ print("Sem desconto")
