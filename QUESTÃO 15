@@ -1,0 +1,9 @@
+PN =float(input("Digite o primeiro numero : "))
+SN =float(input("Digite o segundo numero  : "))
+
+if PN == SN:
+    print("Os números são iguais")
+elif PN > SN :
+    print("o primeiro numero é maior ")
+else:
+    print( "O segundo numero é maior ")
