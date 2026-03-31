@@ -1,0 +1,6 @@
+PV =float(input("qual o valor da compra : "))
+
+if PV >= 200:
+    print("20% de desconto")
+elif PV >= 100:
+    print("10% de desconto")
