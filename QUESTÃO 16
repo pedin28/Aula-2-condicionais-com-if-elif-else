@@ -1,0 +1,7 @@
+SENHA = "python123"
+pergunta =str(input("Digite a senha : "))
+
+if pergunta == SENHA :
+    print("Acesso permitido")
+else:
+    print("Acesso negado")
